@@ -23,10 +23,10 @@
 6. **Work experience:**
 [Online course "Intro to git" on hexlet website](https://github.com/myatochka12/hexlet-git)
 7. **Education:** 
-    1. RSSU - Bachelor's degree in Business informatics
-    2. code-basics.com - online course "HTML for beginners"
-    3. code-basics.com - online course "CSS for beginners"
-    4. code-basics.com - online course "JavaScript for beginners"
-    5. hexlet.io - online course "Introduction_to_programming"
-    6. hexlet.io - online course "Intro_to_git"
+    * RSSU - Bachelor's degree in Business informatics
+    * code-basics.com - online course "HTML for beginners"
+    * code-basics.com - online course "CSS for beginners"
+    * code-basics.com - online course "JavaScript for beginners"
+    * hexlet.io - online course "Introduction_to_programming"
+    * hexlet.io - online course "Intro_to_git"
 8. **English language:** English Advanced (C1-C2), 79 points in the Unified state exam

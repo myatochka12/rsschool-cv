@@ -64,11 +64,21 @@ body {
         width: 100%;
     }
 }
+h1 {
+    text-transform: uppercase;
+}
 .section-title {
     font-size: 22px;
     font-weight: 600;
     letter-spacing: 1px;
     color:midnightblue;
+}
+.link-section {
+    text-decoration: none;
+}
+.link-section:hover {
+    font-weight: bold;
+    color: blue;
 }
 .image-section {
     width: 250px;
@@ -84,9 +94,14 @@ body {
 .image-footer {
     width: 70px;
 }
-.footer-link {
+.link-footer {
     padding: 0 20px;
     line-height: 50px;
+    text-decoration: none;
+}
+.link-footer:hover {
+    font-weight: bold;
+    color: blue;
 }
 .p-footer {
     text-align: center;
